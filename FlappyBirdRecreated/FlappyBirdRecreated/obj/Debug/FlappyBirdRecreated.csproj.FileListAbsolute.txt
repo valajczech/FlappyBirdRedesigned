@@ -1,0 +1,12 @@
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\bin\Debug\FlappyBirdRecreated.exe.config
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\bin\Debug\FlappyBirdRecreated.exe
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\bin\Debug\FlappyBirdRecreated.pdb
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.csprojAssemblyReference.cache
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.Properties.Resources.resources
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.csproj.GenerateResource.cache
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.csproj.CoreCompileInputs.cache
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.exe
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.pdb
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.ActualGame.resources
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.MainMenu.resources
+C:\Users\Jiří\source\repos\FlappyBirdRecreated\FlappyBirdRecreated\obj\Debug\FlappyBirdRecreated.HowToPlay.resources
